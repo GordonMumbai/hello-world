@@ -1,2 +1,4 @@
 # hello-world
-Baby's first respository
+
+Just following along with the Hello World guide.
+I'm new here, be friendly.
